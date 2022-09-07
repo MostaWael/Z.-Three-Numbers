@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662550386 source:e:\sheetthreecodeforces\test\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+
